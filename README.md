@@ -6,6 +6,9 @@
 
 # Implementation
 If you are not using .py files, use IPYNB folder which has equivalent .ipynb files.
+```
+Will need : tensorflow, keras, nltk and pickle
+```
 
 * intents.json – Data file which has predefined patterns and responses
 * train_KIARA.py – Python script to build the model and train KIARA
