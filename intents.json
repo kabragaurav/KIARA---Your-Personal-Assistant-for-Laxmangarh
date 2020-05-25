@@ -1,0 +1,123 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": ["Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
+            "responses": ["Hello, thanks for asking", "Good to see you", "Hey there, how can I help?"],
+            "context": [""]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+            "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+            "context": [""]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"],
+            "context": [""]
+        },
+        {
+            "tag": "fuck",
+            "patterns": ["fuck you", "not correct", "incorrect response", "Your response is not perfect", "really bad answer"],
+            "responses": ["There is always a room for improvement. Mail : gauravkabra.official@gmail.com"],
+            "context": [""]
+        },
+        {
+            "tag": "options",
+            "patterns": ["Who are you?", "How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+            "responses": ["Hi! I am KIARA...Keras Implemented Advanced Ready Assistant. I will clear your doubts about your city Laxmangarh :)"],
+            "context": [""]
+        },
+        {
+            "tag": "father",
+            "patterns": ["Who made you?", "Who is your father", "Your father name", "Do you have father or mother"],
+            "responses": ["Gaurav Kabra made me in May 2020"],
+            "context": [""]
+        },
+        {
+            "tag": "built_fort",
+            "patterns": ["What is the history of Laxmngarh fort", "Who did build the Laxmangarh fort", "Who built Laxmangarh fort"],
+            "responses": ["built by Rao Raja of Sikar, Laxman Singh in 1862"],
+            "context": [""]
+        },
+        {
+            "tag": "famous_temples",
+            "patterns": ["Laxmangarh is famous for??", "Famous temple in Laxmanghar", "Temples to visit in Laxmangarh", "Temples that I should go in Laxmangarh"],
+            "responses": ["Kesarinandan and dakaniyo ka mandir"],
+            "context": [""]
+        },
+        {
+            "tag": "sweet_dish",
+            "patterns": ["What's the famous food(sweet+any specific dish) of Laxmangarh?","Best dish of Laxmangarh", "Dishes famous in Laxmangarh", "Sweet dish I should eat in Laxmangarh", "Laxmangarh is famous for which sweet dish", "What sweet dish is most frequently eaten by people of Laxmangarh?"],
+            "responses": ["Visit Ganpati fast foods and Santa Banta Pastry"],
+            "context": [""]
+        },
+        {
+            "tag": "founded_established",
+            "patterns": ["History of laxmangarh", "When was Laxmangarh founded", "Who established Laxmangarh", "By whom was Laxmangarh founded or established"],
+            "responses": ["Rao Raja of Sikar, Laxman Singh in 1862, founded Laxmangarh in 1864 in his own name."],
+            "context": [""]
+        },
+        {
+            "tag": "places_to_visit",
+            "patterns": ["Best thing about Laxmangarh", "Places to visit in Laxmanghar", "Must visit places in Laxmangarh", "Worth visiting sites in Laxmangarh", "Laxmangarh is famous for what places", "Places or sites famous in Laxmangarh"],
+            "responses": ["Sawant Ram Chokhani Haveli, Bansidhar Rathi Haveli, Sanganeria Haveli, Mirijamal Kyala Haveli, Char Chowk Haveli and Kedia Haveli. There is famous temple, i.e. The Radhi Murlimanohar temple"],
+            "context": [""]
+        },
+        {
+            "tag": "myth",
+            "patterns": ["Is it true that there is a hotel on the top of laxmangarh fort?"],
+            "responses": ["Although the fort is now a private property , but a temple over there is open to public. "],
+            "context": [""]
+        },
+        {
+            "tag": "story_dakahiyon",
+            "patterns": ["Story behind dakniyo ka mandir in Laxmanghar", "Why the name dakaniyon ka mandir"],
+            "responses": ["It is said that the deity over there looks dangerous and hence the name"],
+            "context": [""]
+        },
+        {
+            "tag": "story_dakahiyon",
+            "patterns": ["Story behind dakniyo ka mandir in Laxmanghar", "Why the name dakaniyon ka mandir"],
+            "responses": ["Due to dangerous look of Shri NArshimha..."],
+            "context": [""]
+        },
+        {
+            "tag": "not_on_internet",
+            "patterns": ["Something to know about that is not available on internet or normally we didn't heard of???", "Unknown facts of Laxmangarh", "least known facts about laxmangarh"],
+            "responses": ["The fort of Laxmangarh is a unique piece of fort architecture in the whole world because the structure is built upon scattered pieces of huge rocks."],
+            "context": [""]
+        },
+        {
+            "tag": "emperor",
+            "patterns": ["Who was the last emperor of Laxmangarh?", "last emperor or king"],
+            "responses": ["The fort of Laxmangarh is a unique piece of fort architecture in the whole world because the structure is built upon scattered pieces of huge rocks."],
+            "context": [""]
+        },
+        {
+            "tag": "shop",
+            "patterns": ["Oldest shop in laxmangarh", "earliest shop?"],
+            "responses": ["On Google, I found Pawan store ^_^"],
+            "context": [""]
+        },
+        {
+            "tag": "development",
+            "patterns": ["Which is the best school in Laxmangarh in terms of overall developmen","best school"],
+            "responses": ["Adarsh, Mayur and SR"],
+            "context": [""]
+        },
+        {
+            "tag": "shradha",
+            "patterns": ["Who is shradha nath ji from Laxmngarh?", "sharadha nath ji mandir"],
+            "responses": ["Found this useful : http://www.shraddhanathji.org/lifehistory.html"],
+            "context": [""]
+        },
+        {
+            "tag": "efforts",
+            "patterns": ["What are the efforts to make laxmangarh a developed city"],
+            "responses": ["Stop corruption and maintain respect n harmony"],
+            "context": [""]
+        }
+    ]
+}
