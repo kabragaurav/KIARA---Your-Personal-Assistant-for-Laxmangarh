@@ -1,0 +1,24 @@
+You: Hey
+
+KIARA: Good to see you
+
+You: what can you do for me
+
+KIARA: Hi! I am KIARA...Keras Implemented Advanced Ready Assistant. I will clear your doubts about your city Laxmangarh :)
+
+You: tell me about fort
+
+KIARA: built by Rao Raja of Sikar, Laxman Singh in 1862
+
+You: laxmangarh's founding history
+
+KIARA: Rao Raja of Sikar, Laxman Singh in 1862, founded Laxmangarh in 1864 in his own name.
+
+You: unique fact about laxmangarh?
+
+KIARA: The fort of Laxmangarh is a unique piece of fort architecture in the whole world because the structure is built upon scattered pieces of huge rocks.
+
+You: who made you?
+
+KIARA: Gaurav Kabra made me in May 2020
+
