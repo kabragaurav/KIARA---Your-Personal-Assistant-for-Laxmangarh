@@ -16,3 +16,10 @@ Will need : tensorflow, keras, nltk and pickle
 * classes.pkl – The classes pickle file contains the list of categories
 * chatbot_model.h5 – The trained model that contains information about the model and has weights of the neurons
 * gui_KIARA.py – Python GUI script
+
+```
+My friends earn sincere regards for asking many questions to train KIARA:
+Gaurav Trivedi, Gaurav Soni, Akash Gothria, Neha Bhargava, Akash Jajodia
+Ranjan Verma, Yogesh Jangid, Ravina Shekhawat, Hitesh Jangir
+Ankita Jagir, Dheeraj Nahariya, Suhail Quereshi, Vinay Soni
+```
